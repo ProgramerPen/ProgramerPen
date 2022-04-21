@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=I%20build%20things%20for%20the%20web.&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Web%20Developer.&fontSize=50)
 ## Hi, there 👋
 I'm a dedicated and disciplined web developer and have a deep passion for programming.
 
